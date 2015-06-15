@@ -1,3 +1,9 @@
-<a>
-  BLAH
-</a>
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+	    <Zero1_AttributeTest>
+            <active>false</active>
+            <codePool>local</codePool>
+        </Zero1_AttributeTest>
+    </modules>
+</config>
