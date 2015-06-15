@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zero1_AttributeTest>
+            <version>1.0.1</version>
+        </Zero1_AttributeTest>
+    </modules>
+</config>
